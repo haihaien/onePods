@@ -1,2 +1,0 @@
-/Users/zhangyanghao/Library/Developer/Xcode/DerivedData/onePods-bsypovoloufagjbncfvzezugloqg/Build/Products/Debug-iphonesimulator/onePods.app
-iPhone Developer
